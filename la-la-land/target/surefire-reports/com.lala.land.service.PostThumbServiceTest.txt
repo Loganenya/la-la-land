@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.lala.land.service.PostThumbServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.023 s <<< FAILURE! - in com.lala.land.service.PostThumbServiceTest
+doPostThumb  Time elapsed: 0.021 s  <<< ERROR!
+com.lala.land.exception.BusinessException: 请求数据不存在
+	at com.lala.land.service.PostThumbServiceTest.doPostThumb(PostThumbServiceTest.java:31)
+

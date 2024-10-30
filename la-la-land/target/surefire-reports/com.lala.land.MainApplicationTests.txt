@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lala.land.MainApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.743 s - in com.lala.land.MainApplicationTests

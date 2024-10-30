@@ -1,0 +1,8 @@
+com\lala\land\utils\EasyExcelTest.class
+com\lala\land\service\PostThumbServiceTest.class
+com\lala\land\service\UserServiceTest.class
+com\lala\land\service\PostFavourServiceTest.class
+com\lala\land\manager\CosManagerTest.class
+com\lala\land\mapper\PostMapperTest.class
+com\lala\land\mapper\PostFavourMapperTest.class
+com\lala\land\MainApplicationTests.class
