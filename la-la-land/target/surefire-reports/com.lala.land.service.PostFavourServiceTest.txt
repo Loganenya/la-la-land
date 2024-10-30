@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.lala.land.service.PostFavourServiceTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.05 s <<< FAILURE! - in com.lala.land.service.PostFavourServiceTest
-doPostFavour  Time elapsed: 0.027 s  <<< ERROR!
-com.lala.land.exception.BusinessException: 请求数据不存在
-	at com.lala.land.service.PostFavourServiceTest.doPostFavour(PostFavourServiceTest.java:34)
-
